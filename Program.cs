@@ -56,14 +56,6 @@ namespace todolist
                     Console.WriteLine("invalid option,please try again.");
                 }
                     
-
-                
-
-
-                     
-
-       
-
             }
 
             
