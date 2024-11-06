@@ -1,0 +1,7 @@
+C:\Najiya\c#\todolist\bin\Debug\todolist.exe.config
+C:\Najiya\c#\todolist\bin\Debug\todolist.exe
+C:\Najiya\c#\todolist\bin\Debug\todolist.pdb
+C:\Najiya\c#\todolist\obj\Debug\todolist.csproj.AssemblyReference.cache
+C:\Najiya\c#\todolist\obj\Debug\todolist.csproj.CoreCompileInputs.cache
+C:\Najiya\c#\todolist\obj\Debug\todolist.exe
+C:\Najiya\c#\todolist\obj\Debug\todolist.pdb
